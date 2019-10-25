@@ -1,0 +1,74 @@
+{
+    "parks": [
+        {
+            "name": "Jackson Hole",
+            "state": "WY",
+            "latitude": 43.582767,
+            "longitude": -110.821999,
+            "visited": false
+        },
+        {
+            "name": "Mojave National Preserve",
+            "state": "CA",
+            "latitude": 35.141689,
+            "longitude": -115.510399,
+            "visited": true
+        },
+        {
+            "name": "Joshua Tree National Park",
+            "state": "CA",
+            "latitude": 33.881866,
+            "longitude": -115.900650,
+            "visited": true
+        },
+        {
+            "name": "Yellowstone National Park",
+            "state": "WY",
+            "latitude": 44.427895,
+            "longitude": -110.588379,
+            "visited": true
+        },
+        {
+            "name": "Great Smoky Mountains National Park",
+            "state": "TN",
+            "latitude": 35.611763,
+            "longitude": -83.489548,
+            "visited": false
+        },
+        {
+            "name": "Little Sandy National Wildlife Refuge",
+            "state": "TX",
+            "latitude": 32.590797,
+            "longitude": -95.273666,
+            "visited": false
+        },
+        {
+            "name": "Mount Rainier National Park",
+            "state": "WA",
+            "latitude": 46.879967,
+            "longitude": -121.726906,
+            "visited": true
+        },
+        {
+            "name": "Yosemite National Park",
+            "state": "CA",
+            "latitude": 37.865101,
+            "longitude": -119.538330,
+            "visited": true
+        },
+        {
+            "name": "Gates of the Arctic National Park and Preserve",
+            "state": "AK",
+            "latitude": 67.915199,
+            "longitude": -153.463730,
+            "visited": false
+        },
+        {
+            "name": "Haleakalā National Park",
+            "state": "TX",
+            "latitude": 20.701283,
+            "longitude": -156.173325,
+            "visited": false
+        }
+    ]
+}
